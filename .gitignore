@@ -1,7 +1,5 @@
 .idea/
 .DS_Store
-chromedriver
-geckodriver
 package-lock.json
 node_modules/
 allure-results/
